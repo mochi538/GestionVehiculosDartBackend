@@ -1,0 +1,1 @@
+ const Autos = require('../model/autosModel')
